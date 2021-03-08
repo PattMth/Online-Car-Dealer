@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carwarehouse>
+  <car category="sedan">
+    <id>1</id>
+    <availability>True</availability>
+    <brand>Hyundai</brand>
+    <model>Sonata</model>
+    <modelyear>2013</modelyear>
+    <mileage>10392</mileage>
+    <fueltype>petrol</fueltype>
+    <seats>5</seats>
+    <price>180</price>
+    <desc>Hyundai Sonata has given an award as the most comfortable sedan car</desc>
+  </car>
+  <car category="sedan">
+    <id>2</id>
+    <availability>True</availability>
+    <brand>Honda</brand>
+    <model>Civic</model>
+    <modelyear>2018</modelyear>
+    <mileage>56566</mileage>
+    <fueltype>petrol</fueltype>
+    <seats>5</seats>
+    <price>250</price>
+    <desc>Honda Civic has 2.5L v8 engine which produce 1000 horsepower</desc>
+  </car>
+  <car category="sedan">
+    <id>3</id>
+    <availability>True</availability>
+    <brand>Toyota</brand>
+    <model>Camry</model>
+    <modelyear>2013</modelyear>
+    <mileage>99999</mileage>
+    <fueltype>petrol</fueltype>
+    <seats>5</seats>
+    <price>150</price>
+    <desc>Camry is a sedan which is produced by Toyota </desc>
+  </car>
+  <car category="sedan">
+    <id>4</id>
+    <availability>True</availability>
+    <brand>BMW</brand>
+    <model>320i</model>
+    <modelyear>2019</modelyear>
+    <mileage>23330</mileage>
+    <fueltype>petrol</fueltype>
+    <seats>5</seats>
+    <price>400</price>
+    <desc>320i has futuristics design and this car can reach 300km/h</desc>
+  </car>
+  <car category="sedan">
+    <id>5</id>
+    <availability>False</availability>
+    <brand>Volkswagen</brand>
+    <model>Golf</model>
+    <modelyear>2017</modelyear>
+    <mileage>6329</mileage>
+    <fueltype>Petrol</fueltype>
+    <seats>5</seats>
+    <price>123</price>
+    <desc>Golf is the most popular product of Volkswagen</desc>
+  </car>
+  <car category="wagon">
+    <id>6</id>
+    <availability>True</availability>
+    <brand>Suzuki</brand>
+    <model>Jimny</model>
+    <modelyear>2011</modelyear>
+    <mileage>78231</mileage>
+    <fueltype>diesel</fueltype>
+    <seats>5</seats>
+    <price>300</price>
+    <desc>Jimny can help you explore wilderness with its 4x4 wheel mechanism</desc>
+  </car>
+  <car category="wagon">
+    <id>7</id>
+    <availability>False</availability>
+    <brand>Holden</brand>
+    <model>Captiva</model>
+    <modelyear>2014</modelyear>
+    <mileage>74744</mileage>
+    <fueltype>diesel</fueltype>
+    <seats>5</seats>
+    <price>343</price>
+    <desc>Captiva is a 4x4 wagon made freshly Australia</desc>
+  </car>
+  <car category="suv">
+    <id>8</id>
+    <availability>True</availability>
+    <brand>Mercedes-Benz</brand>
+    <model>GLC</model>
+    <modelyear>2016</modelyear>
+    <mileage>10392</mileage>
+    <fueltype>petrol</fueltype>
+    <seats>5</seats>
+    <price>380</price>
+    <desc>Mercedes-Benz GLC is made for luxurious travelling</desc>
+  </car>
+  <car category="suv">
+    <id>9</id>
+    <availability>False</availability>
+    <brand>Jeep</brand>
+    <model>Cherokee</model>
+    <modelyear>2013</modelyear>
+    <mileage>70102</mileage>
+    <fueltype>diesel</fueltype>
+    <seats>5</seats>
+    <price>325</price>
+    <desc>Cherokee is the first SUV made by Jeep</desc>
+  </car>
+  <car category="suv">
+    <id>10</id>
+    <availability>True</availability>
+    <brand>Nissan</brand>
+    <model>X-Trail</model>
+    <modelyear>2015</modelyear>
+    <mileage>42715</mileage>
+    <fueltype>petrol</fueltype>
+    <seats>5</seats>
+    <price>175</price>
+    <desc>X-trail is an extremely rare car it is not produced anymore</desc>
+  </car>
+</carwarehouse>
